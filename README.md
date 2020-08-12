@@ -13,6 +13,7 @@ A Data Science Enthusiast but I'm not a programmer. I’m currently working as a
 💬 Ask me about anything, I'm happy to help!
 
 📫 How to reach me: vivtri2@protonmail.com
+
 [![Vivek-Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-trivedi/)
 
 ⚡ Fun fact: .😁
