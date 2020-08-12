@@ -1,4 +1,6 @@
-# vivtri2
+# Vivek Trivedi - vivtri2
+
+# Introduction
 👋 Hi, there I'm Vivek Trivedi.
 I'm a Data Science Enthusiast but I'm not a programmer. I’m currently working as a Data Segmentation and Reporting Analyst for a Asset Recovery Solutions firm. Apart from this I love to develop new tools for everyday automation and increase overall efficiency. 
 
