@@ -2,7 +2,7 @@
 
 # Introduction
 👋 Hi, there I'm Vivek Trivedi.
-A Data Science Enthusiast but I'm not a programmer. I’m currently working as a Data Segmentation and Reporting Analyst for an Asset Recovery Solutions firm. Apart from this I love to develop new tools for everyday automation. 
+A Data Science Enthusiast but I'm not a programmer. I’m currently working as a Data Segmentation and Reporting Analyst for an **Asset Recovery Solutions** firm. Apart from this I love to develop new tools for everyday automation. 
 
 🌱 I'm command line user have worked more in scripting language and some cool technologies.
 
