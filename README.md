@@ -16,7 +16,7 @@ A Data Science Enthusiast but I'm not a programmer. I’m currently working as a
 
 [![Vivek-Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-trivedi/)
 
-⚡ Fun fact: I am older than Javascript.😁
+⚡ Fun fact: I am older than Google & Javascript.😁
 
 📌 Key Skills
 
