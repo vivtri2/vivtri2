@@ -18,7 +18,7 @@ A Data Science Enthusiast but I'm not a programmer. I’m currently working as a
 
 ⚡ Fun fact: I am older than Google & Javascript.😁
 
-📌 Key Skills
+📌 Key Skills 
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
