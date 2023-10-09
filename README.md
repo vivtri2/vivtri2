@@ -13,7 +13,7 @@ My expertise extends to data modeling, ETL (Extract, Transform, Load) processes,
 
 I am excited about the opportunity to contribute my skills and experience to help organizations harness the full potential of their data assets, drive business growth, and make informed decisions. If you're looking for a seasoned Data Engineer with a strong track record of success in AWS and Databricks architecture, I would love to connect and explore how I can add value to your team.
 
-🌱 I'm command line user have worked more in scripting language and some cool technologies.
+🌱 I'm a command line user have working more in scripting language and network technologies.
 
 🧬 Molecular & Cellular Biology
 
