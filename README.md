@@ -1,9 +1,9 @@
 # Vivek Trivedi - vivtri2
 
 # Introduction
-👋 Hi, there I'm Vivek Trivedi.
+👋 Hi,
 
-I'm a highly experienced Data Engineer with over 5 years of hands-on expertise in designing and managing data pipelines for diverse industries, including pharmaceuticals and financial services. My career has been focused on leveraging cutting-edge cloud technologies, particularly within the AWS ecosystem, to architect robust and scalable data solutions.
+I'm Vivek Trivedi, an experienced Data Engineer with over 5 years of hands-on expertise in designing and managing data pipelines for diverse industries, including pharmaceuticals and financial services. My career has been focused on leveraging cutting-edge cloud technologies, particularly within the AWS ecosystem, to architect robust and scalable data solutions.
 
 I hold several AWS certifications, including AWS Certified Solutions Architect and Databricks Spark Developer, which reflect my commitment to staying at the forefront of cloud technology. These certifications have provided me with in-depth knowledge of AWS services, enabling me to optimize data workflows, reduce costs, and ensure data security for my clients.
 
