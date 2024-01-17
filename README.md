@@ -1,7 +1,7 @@
 # Vivek Trivedi - vivtri2
 
 # Introduction
-👋 Hi,
+Hello
 
 I'm Vivek Trivedi, an experienced Data Engineer with over 5 years of hands-on expertise in designing and managing data pipelines for diverse industries, including pharmaceuticals and financial services. My career has been focused on leveraging cutting-edge cloud technologies, particularly within the AWS ecosystem, to architect robust and scalable data solutions.
 
