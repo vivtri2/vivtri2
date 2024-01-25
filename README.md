@@ -17,6 +17,8 @@ I am excited about the opportunity to contribute my skills and experience to hel
 
 🧬 Molecular & Cellular Biology
 
+🧠 Psychology
+
 🛠 Information Analytics ~> Solutions Architecture
 
 💬 Ask me about anything, I'm happy to help!
