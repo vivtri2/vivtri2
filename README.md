@@ -27,8 +27,6 @@ I am excited about the opportunity to contribute my skills and experience to hel
 
 [![Vivek-Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-trivedi/)
 
-⚡ Fun fact: I am older than Google & Javascript.😁
-
 📌 Key Skills 
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
